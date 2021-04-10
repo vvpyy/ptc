@@ -52,7 +52,7 @@ def help_log():
 
 
 def about_win():
-    showinfo(title='About', message='Pt thermistor converter\n\n版本号：#1.0.0 正式版\n开发者：散人杨某\n发布日期：2021/4/3')
+    showinfo(title='About', message='Pt thermistor converter\n\n版本号：#1.0.1 Beta \n开发者：散人杨某\n发布日期：2021/4/3')
 
 
 def setting():
